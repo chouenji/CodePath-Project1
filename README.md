@@ -30,10 +30,6 @@ Here's a walkthrough of implemented required features:
 
 GIF created with LICECap
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2023] [Kevin do Canto]
